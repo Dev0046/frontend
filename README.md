@@ -10,6 +10,8 @@ Supported features of the application are:-
 - Test case integration for application functionality verification
 
 ## Pre-Requisites
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDev0046%2Ffrontend.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDev0046%2Ffrontend?ref=badge_shield)
+
 
 The frontend application have dependencies on other REST API of [OT-Microservices](https://github.com/OT-MICROSERVICES). To run the application successfully, we need these things configured:
 
@@ -38,3 +40,7 @@ make docker-build
 ## Contact Information
 
 [Opstree Opensource](opensource@opstree.com)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDev0046%2Ffrontend.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDev0046%2Ffrontend?ref=badge_large)
